@@ -57,7 +57,7 @@ This project analyzes airline pricing behavior using SQL, Python, and Power BI t
 ## Dashboard Highlights
 
 ### Revenue Management Overview
-![Airline Revenue Management Dashboard](images/dashboard.png)
+![Airline Revenue Management Dashboard](dash1.png)
 - Average Fare
 - Highest Fare
 - Lowest Fare
@@ -70,13 +70,13 @@ This project analyzes airline pricing behavior using SQL, Python, and Power BI t
 - Competitive pricing analysis
 
 ### Booking Window Analytics
-![Airline Revenue Management Dashboard](images/dashboard.png)
+![Airline Revenue Management Dashboard](dash2.png)
 - Fare Escalation Curve
 - Revenue Contribution by Booking Window
 - Average Fare by Booking Window
 
 ### Route Opportunity Analysis
-![Airline Revenue Management Dashboard](images/dashboard.png)
+![Airline Revenue Management Dashboard](dash3.png)
 - Top Premium Routes
 - Route vs. Travel Class Comparison
 
