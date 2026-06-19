@@ -57,7 +57,7 @@ This project analyzes airline pricing behavior using SQL, Python, and Power BI t
 ## Dashboard Highlights
 
 ### Revenue Management Overview
-![Airline Revenue Management Dashboard](dash1.png)
+![Airline Revenue Management Dashboard](dash.png)
 - Average Fare
 - Highest Fare
 - Lowest Fare
